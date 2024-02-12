@@ -1,1 +1,3 @@
-Create a new repository and send invitation
+Create a new repository and send invitation 
+
+Recieved changes in file
